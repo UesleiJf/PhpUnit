@@ -14,8 +14,8 @@ class CalculoTest extends TestCase
     protected function setUp()
     {
         $this->calculo = new Calculo;
-        $this->calculo->num1 = 0;
-        $this->calculo->num2 = 5;
+        $this->calculo->num1 = "aasdf";
+        $this->calculo->num2 = 2;
 
     }
     
