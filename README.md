@@ -15,3 +15,7 @@ The following steps were done on Ubuntu 16.04
 #### Example to run the tests on the file in that directory:
 
 phpunit tests/ExampleTest.php
+
+or to run all tests:
+
+phpunit
