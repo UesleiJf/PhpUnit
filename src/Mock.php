@@ -1,5 +1,9 @@
 <?php
 
-class Mock {
+class Mock extends {
+
+    function foo() {
+        echo 'bar';
+    }
 
 }
