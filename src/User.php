@@ -12,14 +12,12 @@ class User
 	/**
 	* Último nome
 	* @var string
-	*
 	**/
 	public $segundo_nome;
 
 	/**
 	* Nome completo
 	* @return string Retorna o nome completo
-	*
 	**/
 	public function getNomeCompleto()
 	{
